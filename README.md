@@ -1,3 +1,8 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![HTML](https://img.shields.io/badge/HTML-5-orange.svg)
+![CSS](https://img.shields.io/badge/CSS-3-blue.svg)
+![JS](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)
+
 # ⏰ Digital Clock
 
 A simple beginner-friendly digital clock project using **HTML, CSS, and JavaScript**.  
