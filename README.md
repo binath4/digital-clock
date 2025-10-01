@@ -14,7 +14,7 @@ Shows your system’s current time and date with a clean design.
 - Displays real-time hours, minutes, and seconds
 - Shows today’s date
 - Lightweight (no libraries or frameworks)
-- Beginner-friendly code
+- Friendly code
 
 ---
 
